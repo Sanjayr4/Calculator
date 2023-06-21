@@ -50,3 +50,7 @@ width:145px;
 form input.operator {
 color:red;
 }
+
+@media(max-width){
+  
+}
